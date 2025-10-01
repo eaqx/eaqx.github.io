@@ -2,7 +2,7 @@
 
 The configuration file of Xray is in JSON format, and the configuration format for the client and server is the same, except for the actual configuration content.
 
-## Form:
+### Form:
 
 ```json
 {
@@ -24,64 +24,64 @@ The configuration file of Xray is in JSON format, and the configuration format f
 }
 ```
 
-## Basic Configuration Modules
+### Basic Configuration Modules
 
-### version
+#### version
 
 This setting controls which versions this config can run on. It helps prevent the config from running on unintended client versions when shared. The client will check at runtime whether the current version meets this requirement.
 
-### log
+#### log
 
 Log configurations, controlling how Xray emits logs.
 
-### api
+#### api
 
 Provides some API interfaces for calling remotely.
 
-### dns
+#### dns
 
 Configures the built-in DNS server. System DNS will be used if not configured.
 
-### routing
+#### routing
 
 Configures routing. Specify rules to route connections through different outbounds.
 
-### policy
+#### policy
 
 Local policy configurations, specifying different user levels and corresponding policies.
 
-### inbounds
+#### inbounds
 
-An array of inbound connection configurations
+An array of inbound connection configurations.
 
-### outbounds
+#### outbounds
 
 An array of outbound connection configurations.
 
-### transport
+#### transport
 
 Configures how Xray establishes and uses network connections to other servers.
 
-### stats
+#### stats
 
 Configures traffic statistics.
 
-### reverse
+#### reverse
 
-Configures the built-in reverse proxy. You can forward server traffic to the client, effectively achieving reverse proxying
+Configures the built-in reverse proxy. You can forward server traffic to the client, effectively achieving reverse proxying.
 
-### fakedns
+#### fakedns
 
 FakeDNS configuration. Can be used with a transparent proxy to obtain the actual domains.
 
-### metrics
+#### metrics
 
 Metrics configuration. A more straightforward (and hopefully better) way to export metrics.
 
-### observatory
+#### observatory
 
 Background connection observation. Detect the connection status of outbound proxies.
 
-### burstObservatory
+#### burstObservatory
 
 Concurrent connection observation. Detect the connection status of outbound proxies.
