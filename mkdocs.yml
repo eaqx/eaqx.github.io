@@ -3,6 +3,7 @@ site_author: eaqx
 repo_url: https://github.com/eaqx/test-docs
 repo_name: eaqx/test-docs
 copyright: Copyright &copy; 2025 eaqx
+site_url: https://eaqx.github.io/test-docs/
 site_description: Docs
 remote_branch: docs
 
@@ -90,6 +91,7 @@ plugins:
             Inbound: 入站
       reconfigure_material: true
       reconfigure_search: true
+
 
 
 
