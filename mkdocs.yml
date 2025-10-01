@@ -1,27 +1,26 @@
 site_name: Docs
+site_author: eaqx
 repo_url: https://github.com/eaqx/test-docs
 repo_name: eaqx/test-docs
-site_description: A test.
+copyright: Copyright &copy; 2025 eaqx
+site_description: Docs
 remote_branch: docs
+
 theme:
   name: material
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
+        icon: material/brightness-2
+        name: Switch to light mode
   features:
     - navigation.tracking
     - navigation.tabs
@@ -32,6 +31,7 @@ theme:
     - content.code.copy
     - content.code.select
     - content.code.annotate
+
 nav:
   - Home:
       - index.md
@@ -39,6 +39,7 @@ nav:
       - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
@@ -69,6 +70,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
 plugins:
   - i18n:
       docs_structure: suffix
