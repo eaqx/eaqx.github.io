@@ -36,6 +36,7 @@ nav:
   - Home:
       - index.md
   - Configuration:
+      - index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
 
@@ -90,6 +91,7 @@ plugins:
             Inbound: 入站
       reconfigure_material: true
       reconfigure_search: true
+
 
 
 
