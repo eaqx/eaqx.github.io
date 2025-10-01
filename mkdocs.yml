@@ -36,7 +36,6 @@ nav:
   - Home:
       - index.md
   - Configuration:
-      - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
 
@@ -88,3 +87,4 @@ plugins:
             Home: 开始
             Configuration: 配置
             Inbound: 入站
+
