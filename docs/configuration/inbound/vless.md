@@ -40,7 +40,7 @@ Currently, you need to specify `"none"`. It cannot be left empty. If the `decryp
 
 ### fallbacks
 
-An array that contains a series of powerful fallback configurations (optional).
+An array that contains a series of fallback configurations.
 
 ## ClientObject
 
