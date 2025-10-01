@@ -1,7 +1,7 @@
 site_name: Docs
 site_author: eaqx
-repo_url: https://github.com/eaqx/test-docs
-repo_name: eaqx/test-docs
+repo_url: https://github.com/eaqx/eaqx.github.io
+repo_name: eaqx/eaqx.github.io
 copyright: Copyright &copy; 2025 eaqx
 site_description: Docs
 remote_branch: docs
@@ -90,6 +90,7 @@ plugins:
             Inbound: 入站
       reconfigure_material: true
       reconfigure_search: true
+
 
 
 
