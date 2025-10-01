@@ -64,7 +64,7 @@ Execute `xray uuid` to generate a random UUID.
 
 The user level that the connection will use to determine the corresponding.
 
-The value of `level` corresponds to the value of policy.level .The default value is 0.
+The value of `level` corresponds to the value of policy.level.The default value is 0.
 
 ### email
 
