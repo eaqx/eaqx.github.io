@@ -4,6 +4,7 @@ repo_url: https://github.com/eaqx/test-docs
 repo_name: eaqx/test-docs
 copyright: Copyright &copy; 2025 eaqx
 site_description: Docs
+remote_branch: docs
 
 theme:
   name: material
@@ -86,5 +87,6 @@ plugins:
             Home: 开始
             Configuration: 配置
             Inbound: 入站
+
 
 
