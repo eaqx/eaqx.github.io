@@ -88,6 +88,8 @@ plugins:
             Home: 开始
             Configuration: 配置
             Inbound: 入站
+      reconfigure_material: true
+      reconfigure_search: true
 
 
 
