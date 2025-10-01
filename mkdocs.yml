@@ -71,6 +71,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
+  - search
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -87,6 +88,7 @@ plugins:
             Home: 开始
             Configuration: 配置
             Inbound: 入站
+
 
 
 
