@@ -86,7 +86,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Configuration: 
-      - index.md
+      - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 
