@@ -6,7 +6,7 @@
 
 ### 形式:
 
-``` { .yaml .select }
+```json
 {
   "vsersion": {},
   "log": {},
@@ -87,6 +87,7 @@ metrics 配置。更直接的统计导出方式。
 #### burstObservatory
 
 突发连接观测。探测出站代理的连接状态。
+
 
 
 
