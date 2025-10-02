@@ -1,12 +1,12 @@
 # 概述
 
-!!! note
+!!! note ""
 
     Xray 的配置文件为 json 格式, 客户端和服务端的配置格式相同, 仅实际的配置内容不同。
 
 ### 形式:
 
-```json
+``` { .yaml .select }
 {
   "vsersion": {},
   "log": {},
@@ -87,5 +87,6 @@ metrics 配置。更直接的统计导出方式。
 #### burstObservatory
 
 突发连接观测。探测出站代理的连接状态。
+
 
 
