@@ -1,6 +1,6 @@
 # Overview
 
-!!! note
+!!! note ""
 
     The configuration file of Xray is in JSON format, and the configuration format for the client and server is the same, except for the actual configuration content.
 
@@ -87,4 +87,5 @@ Background connection observation. Detect the connection status of outbound prox
 #### burstObservatory
 
 Concurrent connection observation. Detect the connection status of outbound proxies.
+
 
