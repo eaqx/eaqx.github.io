@@ -8,6 +8,8 @@ remote_branch: docs
 
 theme:
   name: material
+  logo: assets/icon.svg
+  favicon: assets/icon.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -91,6 +93,7 @@ plugins:
             Inbound: 入站
       reconfigure_material: true
       reconfigure_search: true
+
 
 
 
