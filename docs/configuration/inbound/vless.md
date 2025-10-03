@@ -82,4 +82,4 @@ The following flow control modes are available for inbound protocols:
 | mode            | algorithm                           |
 |------------------|-----------------------------------------|
 |                 | Use regular TLS proxy                |
-| xtls-rprx-vision  | Use the XTLS mode, including inner-handshake random padding |
+| `xtls-rprx-vision`  | Use the XTLS mode, including inner-handshake random padding |
