@@ -19,6 +19,10 @@ theme:
     - header.autohide
     - content.code.copy
   palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
@@ -29,8 +33,8 @@ theme:
       scheme: slate
       primary: black
       toggle:
-        icon: material/brightness-2
-        name: Switch to light mode
+        icon: material/brightness-4
+        name: Switch to system preference
   favicon: assets/icon.svg
   logo: assets/icon.svg
 
@@ -89,5 +93,6 @@ nav:
       - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 
 
