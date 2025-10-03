@@ -55,6 +55,7 @@ plugins:
           nav_translations:
             Home: 首页
             Changelog: 更新日志
+            Installation: 安装
             Configuration: 配置
             Inbound: 入站
 
@@ -97,6 +98,7 @@ nav:
       - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 
 
 
