@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://eaqx.github.io/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/changelog/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/changelog/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/configuration/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/configuration/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/configuration/inbound/vless/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/configuration/inbound/vless/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/configuration/inbound/vless/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/installation/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/installation/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/zh/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/zh/changelog/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/changelog/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/zh/configuration/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/configuration/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/zh/configuration/inbound/vless/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/configuration/inbound/vless/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/configuration/inbound/vless/"/>
+    </url>
+    <url>
+        <loc>https://eaqx.github.io/zh/installation/</loc>
+        <lastmod>2025-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://eaqx.github.io/zh/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://eaqx.github.io/installation/"/>
+    </url>
+</urlset>
