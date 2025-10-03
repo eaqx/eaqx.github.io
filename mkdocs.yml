@@ -33,7 +33,7 @@ theme:
       scheme: slate
       primary: black
       toggle:
-        icon: material/brightness-2
+        icon: material/brightness-4
         name: Switch to system preference
   favicon: assets/icon.svg
   logo: assets/icon.svg
@@ -93,6 +93,7 @@ nav:
       - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 
 
 
