@@ -1,4 +1,4 @@
-site_name: Docs
+site_name: DOCS
 site_author: eaqx
 site_url: https://eaqx.github.io/
 site_description: A Docs Made with Material for MkDocs
@@ -54,6 +54,7 @@ plugins:
           name: 简体中文
           nav_translations:
             Home: 首页
+            Changelog: 更新日志
             Configuration: 配置
             Inbound: 入站
 
@@ -89,10 +90,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Changelog: changelog.md
+  - Installation:
+      - installation/index.md
   - Configuration: 
       - configuration/index.md
       - Inbound:
           - VLESS: configuration/inbound/vless.md
+
 
 
 
